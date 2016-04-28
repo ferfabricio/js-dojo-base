@@ -1,12 +1,12 @@
 {
-  "name": "dojo",
+  "name": "js-dojo-base",
   "version": "1.0.0",
-  "description": "Coding dojo toledo 28/04",
+  "description": "Base code for coding dojo with javascript and nodeJS",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/istanbul cover -- node_modules/.bin/_mocha -u exports -R spec --recursive tests/"
   },
-  "author": "",
+  "author": "Fernando Fabricio dos Santos <ferfabricio@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "unit.js": "^2.0.0"
