@@ -1,6 +1,16 @@
 # Coding dojo 25/04/2016
 Coding dojo realizado na Inside sistemas
 
+## Problema utilizado
+
+É comum aos médicos prescreverem um ou mais medicamentos para serem tomados em períodos específicos. O objetivo é escrever um programa que organize os horários que devam ser utilizados os remédios, dada uma hora inicial e a quantidade de dias.
+
+### Regras
+ - Os horários serão informados no formato de 24 horas (0 às 23);
+ - Serão considerados somente horas como unidade de tempo;
+ - Mais de remédio pode ser administrado ao mesmo tempo;
+ - O horário de início deve ser informado e utilizado como base para o cálculo;
+
 ## Retrospectiva
 
 ### Pontos Positivos
